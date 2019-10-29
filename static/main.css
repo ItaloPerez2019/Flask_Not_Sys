@@ -3,7 +3,9 @@ html, body{
     margin: 0%; 
 }
 
-
+.message{
+    color: red;
+}
 
 .container{
     margin: 0 auto; 
